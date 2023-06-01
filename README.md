@@ -11,5 +11,7 @@
 <li>Files and errors</li>
 </ul>
 
+<a href="https://globalaihub.com/wp-content/uploads/certificates/Niran-Ozen-Introduction-to-Python-Introduction-to-Python-Global-AI-Hub.jpeg">Course Certificate</a>
+
 
 

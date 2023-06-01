@@ -1,11 +1,15 @@
 # Introduction-to-Python
 
-<h1>Curriculum<\h1>
+<h1>Curriculum</h1>
 
-*Python syntax essentials
-*Flow controls
-*Functions
-*Data structures
-*Files and errors
+
+<ul>
+<li>Python syntax essentials</li>
+<li>Flow controls</li>
+<li>Functions</li>
+<li>Data structures</li>
+<li>Files and errors</li>
+</ul>
+
 
 
